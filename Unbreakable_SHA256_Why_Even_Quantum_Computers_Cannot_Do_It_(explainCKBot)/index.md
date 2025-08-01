@@ -1,5 +1,5 @@
 ---
-title: 'Unbreakable SHA-256: Why Even Quantum Computers Can't Do It'
+title: 'Unbreakable SHA-256: Why Even Quantum Computers Cannot Do It'
 coverImage: 'images/image1.png'
 category: Cryptography, Hash Function
 subtitle: 'Cryptography is the invisible backbone of the digital world. It secures passwords, authenticates transactions, and ensures the integrity of data flowing across the internet.'
