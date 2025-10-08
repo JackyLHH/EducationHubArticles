@@ -1,5 +1,5 @@
 ---
-title: 'What are Blockchain Reorgs? A Beginner's Guide'
+title: 'What are Blockchain Reorgs?'
 coverImage: 'images/image1.png'
 category: Blockchain
 subtitle: 'Blockchain reorg is both a natural byproduct of how blockchains achieve consensus and a potential vector for attacks.'
