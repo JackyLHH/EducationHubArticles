@@ -1,7 +1,7 @@
 ---
 title: 'Unlocking CKB Liquidity: A Deep Dive into the iCKB Protocol'
 coverImage: 'images/image1.png'
-category: Popular
+category: Nervos DAO
 subtitle: 'By introducing a liquid staking derivative on CKB, iCKB unlocks new layers of composability, efficiency, and inclusion for Nervos users.'
 date: '2025-09-22T16:00:00.000Z'
 author: Femi
